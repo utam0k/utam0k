@@ -1,7 +1,7 @@
 ## About Me
 
 Hi, I'm Toru Komatsu. 
-I develop OSS as my hobby. Recently, I've been developing with an interest in Rust and containers.
+Recently, I've been developing with an interest in Rust, Go and containers.
 
 BTW the handle `utam0k` is `Komatsu` reversed.
 
