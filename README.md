@@ -11,6 +11,7 @@ BTW the handle `utam0k` is `Komatsu` reversed.
 
 * [opencontainers/runtime-spec-maintainers](https://github.com/opencontainers/runtime-spec/blob/7529d1078ce6918246afb1a70a94089a316a9f69/MAINTAINERS#L12)
 * [containers/youki-maintainers](https://github.com/containers/youki)
+* [containerd/runwasi-reviewers](https://github.com/containerd/runwasi/blob/2acd7b18ff9760588593c1ba0bbef2384876ae10/MAINTAINERS#L17)
 
 ### Other information
 
