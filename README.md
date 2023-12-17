@@ -1,9 +1,7 @@
 ## About Me
 
-Hi, I'm Toru Komatsu. 
-Recently, I've been developing with an interest in Kubernetes, Rust, Go, and containers.
-
-BTW, the handle `utam0k` is `Komatsu` reversed.
+👋 Hi, I'm Toru Komatsu.  
+Almost my OSS activities are just for fun ;) Happy Hacking.
 
 ![image](https://user-images.githubusercontent.com/13010913/128653950-5fbfb61e-6365-49d9-9f7f-0b23a92988ab.png)
 
