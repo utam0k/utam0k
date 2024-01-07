@@ -1,6 +1,6 @@
 ## About Me
 
-👋 Hi, I'm Toru Komatsu, a.k.a `@utam0k` _/uːtɑːmoʊk/_ うたもく.  
+👋 Hi, I'm Toru Komatsu, a.k.a `@utam0k` /_uːtɑːmoʊk_/ うたもく.  
 Almost my OSS activities are just for fun ;) Happy Hacking.
 
 ![image](https://user-images.githubusercontent.com/13010913/128653950-5fbfb61e-6365-49d9-9f7f-0b23a92988ab.png)
