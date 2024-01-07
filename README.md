@@ -13,6 +13,7 @@ Almost my OSS activities are just for fun ;) Happy Hacking.
 * [One of the owners of OCI Working Group Image Compatibility](https://github.com/opencontainers/tob/blob/2fe3089652bc3dbb2e94439799801dd40f613e98/proposals/wg-image-compatibility.md?plain=1#L67)
 * [CNCF Ambassador - Fall 2023](https://www.credly.com/badges/0f8c5063-bb5d-4cb7-ab9a-3cb035b90b29/public_url)
 * [A member of Kubernetes organization](https://github.com/kubernetes/org/blob/48a59bca3030928bdb57ddc29c35d3eccdb3ea72/config/kubernetes/org.yaml#L1595)
+* [One of the organizers of CNCJ(Cloud Native Community Japan)](https://community.cncf.io/cloud-native-community-japan/)
 
 ### Award
 
