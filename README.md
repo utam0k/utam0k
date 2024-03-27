@@ -21,7 +21,7 @@ Most of my OSS activities are just for fun ;) Happy Hacking.
 
 ### Other information
 
-- Pronouns: he/they
+- Pronouns: he/him
 - Citizenship: Japan
 - Born: June, 1996
 
