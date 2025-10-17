@@ -9,10 +9,10 @@ Most of my OSS activities are just for fun ;) Happy Hacking.
 
 * [opencontainers/runtime-spec-maintainers](https://github.com/opencontainers/runtime-spec/blob/7529d1078ce6918246afb1a70a94089a316a9f69/MAINTAINERS#L12)
 * [containers/youki-maintainers](https://github.com/containers/youki)
+* [Kubernetes SIG-Scheduling Reviwer](https://github.com/kubernetes/kubernetes/pull/133355)
 * [containerd/runwasi-reviewers](https://github.com/containerd/runwasi/blob/2acd7b18ff9760588593c1ba0bbef2384876ae10/MAINTAINERS#L17)
 * [One of the owners of OCI Working Group Image Compatibility](https://github.com/opencontainers/tob/blob/2fe3089652bc3dbb2e94439799801dd40f613e98/proposals/wg-image-compatibility.md?plain=1#L67)
 * [CNCF Ambassador - Fall 2023](https://www.credly.com/badges/0f8c5063-bb5d-4cb7-ab9a-3cb035b90b29/public_url)
-* [A member of Kubernetes organization](https://github.com/kubernetes/org/blob/48a59bca3030928bdb57ddc29c35d3eccdb3ea72/config/kubernetes/org.yaml#L1595)
 * [One of the organizers of CNCJ (Cloud Native Community Japan)](https://community.cncf.io/cloud-native-community-japan/)
 
 ### Award
